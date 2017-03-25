@@ -26,9 +26,6 @@ use `./telegamer.sh ` for Autolaunch
 
 ## Developers
 
- * [Mehrpouya](https://telegram.me/Mehrpouya)
- * [Aryan](https://telegram.me/AryawN_Si)
- * [MrBlacklife](https://telegram.me/Mrblacklife)
-
-### Powered by [TeleGamer](https://telegram.me/TeleGamerCh)
-### Thanks to [BlackLife™](https://t.me/BlackLifeTM)
+### Powered by [TeleGamer](https://telegram.me/HunterTeam)
+### Thanks to [BlackLife™](https://t.me/Parham_TROL)
+`هانتر تیم`
